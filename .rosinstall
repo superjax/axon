@@ -1,0 +1,2 @@
+- git: {local-name: relative_nav_launch, uri: 'magiccvs:/git/relative_nav/relative_nav_launch.git'}
+- git: {local-name: relative_nav_msgs, uri: 'magiccvs:/git/relative_nav/relative_nav_msgs.git'}
