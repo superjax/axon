@@ -1,9 +1,6 @@
 [submodule "axon_launch"]
 	path = axon_launch
 	url = https://github.com/superjax/axon_launch
-[submodule "demo_rgbd"]
-	path = demo_rgbd
-	url = https://github.com/superjax/demo_rgbd
 [submodule "tinyIMU_arduino"]
 	path = tinyIMU_arduino
 	url = https://github.com/superjax/tinyIMU_arduino
